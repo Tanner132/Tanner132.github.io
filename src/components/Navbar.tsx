@@ -20,7 +20,6 @@ const Navbar = () => {
                     window.scrollTo(0, 0);
                 }}
             >
-                <img src={logo} alt="logo" className="w-14 object-contain" />
                 <p className='text-white text-[18px] font-bold cursor-pointer flex'>
                     Tanner &nbsp;
                     <span className='md:block hidden'>| &nbsp;Strickland</span>
